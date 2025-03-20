@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://neutrino2306.github.io">neutrino2306</a>!</h1>
 
-<h3 align="center">Welcome to my GitHub profile QWQ</h3>
+<h3 align="center">Welcome to my GitHub profile :)</h3>
 
 <p align="center">:zap: I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
