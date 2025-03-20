@@ -8,7 +8,7 @@
 
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">:zap: I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
