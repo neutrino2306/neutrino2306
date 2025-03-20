@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://neutrino2306.github.io">
+<!--   <a href="https://neutrino2306.github.io"> -->
     <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
-  </a>
+<!--   </a> -->
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://neutrino2306.github.io">neutrino2306</a>!</h1>
@@ -10,7 +10,7 @@
 
 <p align="center">:zap: I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">:snowman: I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
 <!-- <p align="center"> -->
 <!--   <strong><a href="https://yuna0x0.com">Website</a></strong> | -->
