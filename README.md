@@ -8,10 +8,6 @@
 
 <h3 align="center">Welcome to my GitHub profile :)</h3>
 
-<p align="center">⚡ I'm currently working as an **algorithm engineer** and applying for graduate programs in the **U.S.**</p>
-
-<p align="center">❄️ I'm a fan of **Franz Liszt** and enjoy **classical music**, **playing the piano**, **photography**, and **Eggy Party**🥚🎮.</p>
-
 <p align="center">⚡ I'm currently working as an <strong>algorithm engineer</strong> and applying for <strong>graduate programs</strong> in the <strong>U.S.</strong></p>
 
 <p align="center">❄️ I'm a fan of <strong>Franz Liszt</strong> and enjoy <strong>classical music</strong>, <strong>playing the piano</strong>, <strong>photography</strong>, and <strong>Eggy Party</strong>🥚🎮.</p>
