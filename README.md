@@ -20,15 +20,8 @@
 <!--   <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong> -->
 <!-- </p> -->
 
-<!--<p align="center"> -->
-<!--   <a href="https://github.com/neutrino2306"><img src="https://github-readme-stats.vercel.app/api?username=neutrino2306&hide_border=true&show_icons=true" alt="neutrino2306's github stats"></a> -->
-<!-- </p> -->
-
 <p align="center">
-  <a href="https://github.com/neutrino2306">
-    <img src="https://github-readme-stats.vercel.app/api?username=neutrino2306&hide_border=true&show_icons=true" alt="neutrino2306's github stats">
-  </a>
-  <a href="https://github.com/neutrino2306">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neutrino2306&layout=compact&hide_border=true&bg_color=00000000" alt="neutrino2306's most used languages">
-  </a>
-</p>
+    <a href="https://github.com/neutrino2306"><img src="https://github-readme-stats.vercel.app/api?username=neutrino2306&hide_border=true&show_icons=true" alt="neutrino2306's github stats"></a>
+    <a href="https://github.com/neutrino2306"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neutrino2306&layout=compact&hide_border=true&bg_color=00000000" alt="neutrino2306's most used languages"></a>
+</p> 
+
