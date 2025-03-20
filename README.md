@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://yuna0x0.com">
+  <a href="https://neutrino2306.github.io">
     <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://neutrino2306.github.io">neutrino2306</a>!</h1>
 <p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
+  <a href="https://neutrino2306.github.io">
+    <img src="https://yuna0x0.com/88x31.webp" alt="neutrino2306">
   </a>
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
