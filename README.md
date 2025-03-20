@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=neutrino2306e&show_icons=true&theme=transparent)
+
+
+
+
 <!--
 **neutrino2306/neutrino2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
