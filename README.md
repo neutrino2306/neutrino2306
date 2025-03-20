@@ -2,7 +2,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=neutrino2306&show_icons=true&theme=transparent)
 
-![Visitor Count](https://profile-counter.glitch.me/neutrino2306/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrino2306&layout=compact&theme=tokyonight)
+
+
+<!--![Visitor Count](https://profile-counter.glitch.me/neutrino2306/count.svg)-->
 
 
 
