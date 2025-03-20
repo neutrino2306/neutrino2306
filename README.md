@@ -10,7 +10,7 @@
 
 <p align="center">⚡ I'm currently working as an <strong>algorithm engineer</strong> and applying for <strong>graduate programs</strong> in the <strong>U.S.</strong></p>
 
-<p align="center">❄️ I'm a fan of <strong>Franz Liszt</strong> and enjoy <strong>classical music</strong>, <strong>playing the piano</strong>, <strong>photography</strong>, and <strong>Eggy Party</strong>🥚🎮.</p>
+<p align="center">❄️ I'm a fan of <strong>Franz Liszt</strong> and enjoy <strong>classical music</strong>, <strong>playing the piano</strong>, <strong>photography</strong>, and <strong>Eggy Party</strong>🥚🎮</p>
 
 <p align="center"> 
    <strong><a href="https://neutrino2306.github.io">Website</a></strong> | 
