@@ -8,9 +8,9 @@
 
 <h3 align="center">Welcome to my GitHub profile :)</h3>
 
-<p align="center">:zap: I'm currently working as an algorithm engineer and applying for graduate programs in the U.S.</p>
+<p align="center">⚡ I'm currently working as an **algorithm engineer** and applying for graduate programs in the **U.S.**</p>
 
-<p align="center">:snowman: I'm a fan of Franz Liszt and enjoy classical music, playing the piano, photography, and Eggy Party.</p>
+<p align="center">❄️ I'm a fan of **Franz Liszt** and enjoy **classical music**, **playing the piano**, **photography**, and **Eggy Party**.</p>
 
 <p align="center"> 
    <strong><a href="https://neutrino2306.github.io">Website</a></strong> | 
