@@ -16,8 +16,8 @@
    <strong><a href="https://neutrino2306.github.io">Website</a></strong> | 
    <strong><a href="https://x.com/Y138268">Twitter</a></strong> | 
    <strong><a href="https://www.linkedin.com/in/xixi-hu-41b4872b0">LinkedIn</a></strong> | 
-   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> | 
-   <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong> 
+<!--    <strong><a href="https://www.instagram.com/neutrino3260">Instagram</a></strong> |  -->
+   <strong><a href="https://space.bilibili.com/90220395?spm_id_from=333.1007.0.0">Bilibili</a></strong> 
  </p> 
 
 <p align="center">
