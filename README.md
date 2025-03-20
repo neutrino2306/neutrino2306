@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=neutrino2306e&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=neutrino2306&show_icons=true&theme=transparent)
 
 
 
