@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <a href="https://neutrino2306.github.io"> -->
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
+    <img src="https://github.com/neutrino2306/neutrino2306/blob/main/EggyMoon.jpg" alt="Banner" width="50%">
 <!--   </a> -->
 </p>
 
