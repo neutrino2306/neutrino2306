@@ -1,7 +1,7 @@
 <p align="center">
-<!--   <a href="https://neutrino2306.github.io"> -->
+  <a href="https://neutrino2306.github.io">
     <img src="https://github.com/neutrino2306/neutrino2306/blob/main/EggyMoon.jpg" alt="Banner" width="50%">
-<!--   </a> -->
+  </a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://neutrino2306.github.io">neutrino2306</a>!</h1>
