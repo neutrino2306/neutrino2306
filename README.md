@@ -21,7 +21,7 @@
  </p> 
 
 <p align="center">
-    <a href="https://github.com/neutrino2306"><img src="https://github-readme-stats.vercel.app/api?username=neutrino2306&hide_border=true&show_icons=true&cache_seconds=3600" alt="neutrino2306's github stats"></a>
-    <a href="https://github.com/neutrino2306"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neutrino2306&layout=compact&hide_border=true&bg_color=00000000" alt="neutrino2306's most used languages"></a>
+    <a href="https://github.com/neutrino2306"><img src="https://github-readme-stats.vercel.app/api?username=neutrino2306&hide_border=true&show_icons=true&cache_seconds=1800" alt="neutrino2306's github stats"></a>
+    <a href="https://github.com/neutrino2306"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neutrino2306&layout=compact&hide_border=true&bg_color=00000000&cache_seconds=1800" alt="neutrino2306's most used languages"></a>
 </p> 
 
