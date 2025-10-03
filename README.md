@@ -8,7 +8,7 @@
 
 <h3 align="center">Welcome to my GitHub profile :)</h3>
 
-<p align="center">⚡ I’m a Master’s student in Electrical and Computer Engineering at the University of Washington.</p>
+<p align="center">⚡ I’m a Master’s student in <strong>Electrical and Computer Engineering</strong> at the <strong>University of Washington.</strong></p>
 
 <p align="center">🌙 I'm actively seeking <strong>Software Development Engineer (SDE)</strong> and <strong>Machine Learning Engineer (MLE)</strong> internship for Summer 2026.</p>
 
