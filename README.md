@@ -10,7 +10,7 @@
 
 <p align="center">⚡ I’m a Master’s student in Electrical and Computer Engineering at the University of Washington.</p>
 
-<p align="center">🌙 I'm actively seeking <strong>Software Development Engineer (SDE)</strong> and <strong>Machine Learning Engineer (MLE)</strong> internship opportunities for Summer 2026.</p>
+<p align="center">🌙 I'm actively seeking <strong>Software Development Engineer (SDE)</strong> and <strong>Machine Learning Engineer (MLE)</strong> internship for Summer 2026.</p>
 
 <p align="center">❄️ I'm a fan of <strong>Franz Liszt</strong> and enjoy <strong>classical music</strong>, <strong>playing the piano</strong>, <strong>photography</strong>, <strong>chess</strong>, and <strong>Eggy Party</strong>🥚🎮</p>
 
