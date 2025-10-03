@@ -8,13 +8,13 @@
 
 <h3 align="center">Welcome to my GitHub profile :)</h3>
 
-<p align="center">⚡ I'm currently working as an <strong>algorithm engineer</strong> and applying for <strong>graduate programs</strong> in the <strong>U.S.</strong></p>
+<p align="center">⚡ I'm a M.S. student in UW ECE, and I'm actively seeking Software Developing Engineer (SDE) and Machine Learning Engineer (MLE) internship opportunities for Summer 2026.</p>
 
 <p align="center">❄️ I'm a fan of <strong>Franz Liszt</strong> and enjoy <strong>classical music</strong>, <strong>playing the piano</strong>, <strong>photography</strong>, <strong>chess</strong>, and <strong>Eggy Party</strong>🥚🎮</p>
 
 <p align="center"> 
    <strong><a href="https://neutrino2306.github.io">Website</a></strong> | 
-   <strong><a href="https://x.com/Y138268">Twitter</a></strong> | 
+   <!-- <strong><a href="https://x.com/Y138268">Twitter</a></strong> |  -->
    <strong><a href="https://www.linkedin.com/in/xixi-hu-41b4872b0">LinkedIn</a></strong> | 
 <!--    <strong><a href="https://www.instagram.com/neutrino3260">Instagram</a></strong> |  -->
    <strong><a href="https://space.bilibili.com/90220395?spm_id_from=333.1007.0.0">Bilibili</a></strong> 
